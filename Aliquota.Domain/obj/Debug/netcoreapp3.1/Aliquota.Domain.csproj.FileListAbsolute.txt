@@ -1,0 +1,5 @@
+C:\Projetos\Aliquota.Domain\Aliquota.Domain\bin\Debug\netcoreapp3.1\Aliquota.Domain.deps.json
+C:\Projetos\Aliquota.Domain\Aliquota.Domain\bin\Debug\netcoreapp3.1\Aliquota.Domain.dll
+C:\Projetos\Aliquota.Domain\Aliquota.Domain\obj\Debug\netcoreapp3.1\Aliquota.Domain.csprojAssemblyReference.cache
+C:\Projetos\Aliquota.Domain\Aliquota.Domain\obj\Debug\netcoreapp3.1\Aliquota.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Aliquota.Domain\Aliquota.Domain\obj\Debug\netcoreapp3.1\Aliquota.Domain.AssemblyInfo.cs
